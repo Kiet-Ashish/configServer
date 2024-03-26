@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 discounts:
-  message: Inside QA profile
+  message: Inside QA profile cognizant
   contactDetails:
     name: Ashish Kumar Sharma
     email: Ashish@gmail.com
