@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 discounts:
-  message: Inside Prod profile
+  message: Inside Prod profile cognizant
   contactDetails:
     name: Ashish Kumar
     email: Ashish@gmail.com
