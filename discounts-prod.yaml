@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+discounts:
+  message: Inside Prod profile
+  contactDetails:
+    name: Ashish Kumar
+    email: Ashish@gmail.com
+  mobileNumber:
+    - 8126365663
+    - 8126235656

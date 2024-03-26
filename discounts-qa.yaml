@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+discounts:
+  message: Inside QA profile
+  contactDetails:
+    name: Ashish Kumar Sharma
+    email: Ashish@gmail.com
+  mobileNumber:
+    - 8126365663
+    - 8126235656
